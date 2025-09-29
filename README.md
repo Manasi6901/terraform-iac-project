@@ -37,7 +37,7 @@ IAM user with programmatic access
 
 🚀 How to Run
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/terraform-iac-project.git
+git clone https://github.com/Manasi6901/terraform-iac-project.git
 cd terraform-iac-project
 
 2️⃣ Initialize Terraform
